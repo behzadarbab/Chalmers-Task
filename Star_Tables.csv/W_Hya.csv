@@ -1,0 +1,5 @@
+Frequency [GHz],Lambda,Size [milliarcseconds],r/R,Size Uncertainty [milliarcsecond],Relative Size Uncertainty,Brightness Temperature [K],Bright.Temp. Uncertainty [K]
+130.0,2.308E-03,53.2,1.33,0.3,0.0075,2480,70
+142.0,2.113E-03,52.7,1.3175,0.3,0.0075,2520,50
+331.0,9.063E-04,48.6,1.215,0.1,0.0025,2689,30
+342.0,8.772E-04,48.3,1.2075,0.1,0.0025,2690,30
